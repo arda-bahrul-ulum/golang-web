@@ -1,2 +1,2 @@
 # golang-web
-basix example golang web
+basic example golang web
